@@ -183,26 +183,16 @@ experiences:
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 #
 #publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
+#    title: Certifications
 #    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
+#      - title: PMP®
+#        link: https://www.credly.com/badges/897a5a81-69a1-4df6-affd-139ede0f41c4/
 #
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#      - title: SAFe® 4 Scrum Master
+#        link: https://www.credly.com/badges/da538b73-e5e7-4757-b6ee-a5b3f8eb0110/
 #
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+#      - title: Tableau Desktop Specialist
+#        link: https://www.credly.com/badges/70ebc16b-9e98-46f5-a4a2-e4aca5f30a77/
 #
 #skills:
 #    title: Skills &amp; Proficiency
