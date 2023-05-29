@@ -53,26 +53,17 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Goal-oriented, data-driven manager and quick-learning, adaptive engineer. 
+      
+      Experienced in fostering a collaborative and high-performance work environment, nurturing cross-functional teams,
+      promoting knowledge sharing and advocating a culture of changes and continuous improvement.
 education:
     title: Education
     info:
       - degree: Dipl. d’Ing. in Mechatronic Engineering
         university: HCMC University of Technology - Grenoble INP
         time: 2009 - 2015
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 experiences:
     title: Experiences
     info:
@@ -80,62 +71,65 @@ experiences:
         time: 05/2022 - 02/2023
         company: Instaclustr 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          - Oversaw the operations of the development team in Vietnam
+          - Organized and managed team activities
+          - Participated in development of a cloud management system (30% effort)
+          - Tech stack: Java Spring Boot, Angular, Jenkins, PostgreSQL
+          - Achievements:
+            - Implemented an efficient and effective recruitment process
+            - Established an open feedback channel to improve the operation of the team
+            - Initiated and managed team bonding activities that improved team colaborations
+            - Designed and implemented IAM role-based access feature with Kafka Connect for a key customer
+
       - role: Team Lead - Software Engineer
         time: 02/2021 - 05/2022
         company: Adnovum Vietnam LLC
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Managed a cross-functional team of Software Engineers and Quality Engineers
+          - Facilitated collaboration between teams in different locations
+          - Participated in developing an international investment product management system (50% effort)
+          - Tech stack: Java Spring, Eclipse RCP, Jenkins, OracleDB
+          - Achievements:
+            - Transitioned the team from using Waterfall to Scrum, which improved the development process and overall customer satisfaction
+            - Successfully improved the transparency and communication of the teams
+            - Proposed and implemented a report generating feature
+
       - role: Team Lead - Data Engineer
         time: 03/2019 - 02/2021
         company: FPT Software
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point      
+          - Managed a team of DA & DE for Skywise - Airbus’ data platform
+          - Consulted airlines on reports and analyses
+          - Maintained the reliability of aviation data pipelines from multiple airlines
+          - Analyzed and troubleshot issues in data transformation
+          - Tech stack: Python, Spark, SQL, Palantir Foundry
+          - Achievements:
+            - Trained and mentored a predominantly new team, brought them up to pace with customer facing tasks
+            - Wrote several guides on both technical problem troubleshooting and customer interaction
+            - Attained 9/10 overall customer satisfaction
+
       - role: Research Engineer
         time: 03/2017 - 03/2019
         company: Iritech Inc.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Researched and developed deep learning solutions for technical problems in biometric systems
+          - Image processing and computer vision: Object detection, semantic segmentation
+          - Neural network optimization - neural network pruning
+          - Developed scripts to streamline data processing and to automate porting neural networks to embedded devices
+          - Tech stack: Python, Tensorflow, C/C++
+          - Achievements:
+            - Implemented and fine-tuned an eye detection neural network, replacing the conventional algorithm previously used by the company
+            - Significantly optimized the network to accommodate embedded devices with limited resource
+            - Researched and implemented a sematic segmentation network to remove obscured parts of iris images
+
       - role: Embedded Software Engineer
         time: 02/2014 - 02/2017
         company: Robert Bosch Engineering and Business Solutions Vietnam Co. Ltd 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-            
+          - Developed embedded softwares for automobile system
+          - Developed tools to aid software development
+          - Tech stack: C/C++, Ascet, Matlab, Perl, VBA
+
 #projects:
 #    title: Projects
 #    intro: >
