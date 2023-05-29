@@ -20,7 +20,7 @@
         position: static;
         float: right;
         width: 40%;
-        -webkit-print-color-adjust: exact; 
+        -webkit-print-color-adjust: exact;
     }
 
     .remove-container.container-block {
@@ -42,4 +42,7 @@
      color: #ffffff !important;
    }
 
+  .item {
+    break-inside: avoid;
+  }
 }
