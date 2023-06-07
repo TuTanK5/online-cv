@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Tan Tu
-    tagline: Engineering Manager
+    tagline: Engineering Manager / SSE
     avatar: hinhthe.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
     # timezone: America/Cancun Timezone
     # citizenship:
     # website: blog.webjeda.com #do not add http://
-    linkedin: tan-tu-aa7893a1
+    linkedin: tan-tu-ngo-nhut
     # xing: alandoe
     # github: sharu725
     # telegram: # add your nickname without '@' sign
@@ -53,10 +53,13 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Goal-oriented, data-driven manager and quick-learning, adaptive engineer. 
+      I am a goal-oriented, data-driven manager and a fast-learning, adaptive engineer.
       
-      Experienced in fostering a collaborative and high-performance work environment, nurturing cross-functional teams,
-      promoting knowledge sharing and advocating a culture of changes and continuous improvement.
+      Exposed to a wide range of different technologies, I excel at researching and finding new solutions for problems.
+      
+      I am experienced in fostering a collaborative environment between multiple stakeholders, nurturing cross-functional teams,
+      and advocating changes and continuous improvement.
+
 education:
     title: Education
     info:
@@ -67,7 +70,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Development Manager - Software Engineer
+      - role: Development Manager - Senior Software Engineer
         time: 05/2022 - 02/2023
         company: Instaclustr 
         details: |
@@ -81,7 +84,7 @@ experiences:
             - Initiated and managed team bonding activities that improved team colaborations
             - Designed and implemented IAM role-based access feature with Kafka Connect for a key customer
 
-      - role: Team Lead - Software Engineer
+      - role: Team Lead - Senior Software Engineer
         time: 02/2021 - 05/2022
         company: Adnovum Vietnam LLC
         details: |
@@ -98,7 +101,7 @@ experiences:
         time: 03/2019 - 02/2021
         company: FPT Software
         details: |
-          - Managed a team of DA & DE for Skywise - Airbus’ data platform
+          - Managed a team of DA and DE for Skywise - Airbus’ data platform
           - Consulted airlines on reports and analyses
           - Maintained the reliability of aviation data pipelines from multiple airlines
           - Analyzed and troubleshot issues in data transformation
