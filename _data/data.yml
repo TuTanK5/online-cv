@@ -81,7 +81,7 @@ experiences:
           - Achievements:
             - Implemented an efficient and effective recruitment process
             - Established an open feedback channel to improve the operation of the team
-            - Initiated and managed team bonding activities that improved team colaborations
+            - Initiated and managed team bonding activities that improved team collaboration
             - Designed and implemented IAM role-based access feature with Kafka Connect for a key customer
 
       - role: Team Lead - Senior Software Engineer
@@ -123,7 +123,7 @@ experiences:
           - Achievements:
             - Implemented and fine-tuned an eye detection neural network, replacing the conventional algorithm previously used by the company
             - Significantly optimized the network to accommodate embedded devices with limited resource
-            - Researched and implemented a sematic segmentation network to remove obscured parts of iris images
+            - Researched and implemented a semantic segmentation network to remove obscured parts of iris images
 
       - role: Embedded Software Engineer
         time: 02/2014 - 02/2017
