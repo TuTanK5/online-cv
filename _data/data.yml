@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Tan Tu
     tagline: Engineering Manager / SSE
-    avatar: hinhthe.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: tan.tungo@gmail.com
@@ -38,6 +38,9 @@ sidebar:
         - idiom: English
           level: Professional
 
+        - idiom: French
+          level: Elementary
+
     interests:
       title: Certifications
       info:
@@ -63,21 +66,38 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Dipl. d’Ing. in Mechatronic Engineering
+      - degree: Diplôme d'Ingénieur in Mechatronic Engineering
         university: HCMC University of Technology - Grenoble INP
         time: 2009 - 2015
 
 experiences:
     title: Experiences
     info:
+      - role: Technical Lead - Senior Software Engineer
+        time: 09/2023 - present
+        company: Primrose Capital Management
+        details: |
+          - Built and scaled a software engineering team in Vietnam from near ground up, owning hiring, onboarding, and team development
+          - Established a software development process, standards, and guidelines for the team
+          - Contributed to and supported the delivery of automated trading systems and data analytics tools (70% allocation)
+          - Tech stack: Python, Flask, Dash, FastAPI, PostgreSQL, AWS, Java Spring Boot, Kafka
+          - Achievements:
+            - Recruited and developed a capable team of software engineers in Vietnam, with plan to expand the team further
+            - Introduced software engineering guidelines to improve the quality of the codebase
+            - Built reusable starter projects to accelerate the development process and to ensure consistency across projects
+            - Introduced documentation best practices for clearer knowledge retention and sharing
+            - Set up and improved CI/CD pipelines and test frameworks, enhancing development efficiency across multiple existing projects
+            - Designed and developed an automated trading system that also supported strategy backtesting and researching
+            - Designed and developed a portfolio-treasury management system that provided insights on the portfolio's performance and risk metrics
+
       - role: Development Manager - Senior Software Engineer
         time: 05/2022 - 02/2023
         company: Instaclustr 
         details: |
           - Oversaw the operations of the development team in Vietnam
           - Organized and managed team activities
-          - Participated in development of a cloud management system (30% effort)
-          - Tech stack: Java Spring Boot, Angular, Jenkins, PostgreSQL
+          - Participated in development of a cloud management system (30% allocation)
+          - Tech stack: Java Spring Boot, Angular, PostgreSQL, AWS
           - Achievements:
             - Implemented an efficient and effective recruitment process
             - Established an open feedback channel to improve the operation of the team
@@ -90,8 +110,8 @@ experiences:
         details: |
           - Managed a cross-functional team of Software Engineers and Quality Engineers
           - Facilitated collaboration between teams in different locations
-          - Participated in developing an international investment product management system (50% effort)
-          - Tech stack: Java Spring, Eclipse RCP, Jenkins, OracleDB
+          - Participated in developing an international investment product management system for a renowned international bank (50% allocation)
+          - Tech stack: Java Spring, Eclipse RCP, OracleDB
           - Achievements:
             - Transitioned the team from using Waterfall to Scrum, which improved the development process and overall customer satisfaction
             - Successfully improved the transparency and communication of the teams
@@ -101,7 +121,7 @@ experiences:
         time: 03/2019 - 02/2021
         company: FPT Software
         details: |
-          - Managed a team of DA and DE for Skywise - Airbus’ data platform
+          - Managed a team of DA and DE for Skywise - Airbus' data platform
           - Consulted airlines on reports and analyses
           - Maintained the reliability of aviation data pipelines from multiple airlines
           - Analyzed and troubleshot issues in data transformation
@@ -179,15 +199,15 @@ experiences:
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 #
-#publications:
+# publications:
 #    title: Certifications
 #    papers:
 #      - title: PMP®
 #        link: https://www.credly.com/badges/897a5a81-69a1-4df6-affd-139ede0f41c4/
-#
+
 #      - title: SAFe® 4 Scrum Master
 #        link: https://www.credly.com/badges/da538b73-e5e7-4757-b6ee-a5b3f8eb0110/
-#
+
 #      - title: Tableau Desktop Specialist
 #        link: https://www.credly.com/badges/70ebc16b-9e98-46f5-a4a2-e4aca5f30a77/
 #
